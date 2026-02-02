@@ -1,4 +1,6 @@
 ## 📊 Customer Analytics & RFM Segmentation Dashboard
+🔗 Live Project:
+https://bhanu-kumar-1.github.io/Customer-Analytics-RFM-Dashboard/
 
 ### 📌 Project Overview
 This project presents an end-to-end customer analytics solution built using SQL and Power BI. It analyzes customer purchasing behavior, revenue trends, and customer value to support data-driven business decisions using RFM (Recency, Frequency, Monetary) segmentation.
