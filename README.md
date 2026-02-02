@@ -4,6 +4,20 @@
 This project presents an end-to-end customer analytics solution built using SQL and Power BI. It analyzes customer purchasing behavior, revenue trends, and customer value to support data-driven business decisions using RFM (Recency, Frequency, Monetary) segmentation.
 
 ---
+## 📸 Dashboard Screenshots
+
+### Home – Executive Summary
+![Home](screenshots/home.png)
+
+### Customer Overview
+![Overview](screenshots/customer_overview.png)
+
+### Customer Segmentation
+![Segmentation](screenshots/customer_segmentation.png)
+
+### Project Summary
+![Summary](screenshots/project_summary.png)
+
 
 ### 🛠 Tools & Technologies
 - SQL (MySQL)
