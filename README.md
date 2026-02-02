@@ -7,7 +7,7 @@ This project presents an end-to-end customer analytics solution built using SQL 
 ## 📸 Dashboard Screenshots
 
 ### Home – Executive Summary
-![Home](screenshots/home.png)
+![Home](screenshots/home_overview.png)
 
 ### Customer Overview
 ![Overview](screenshots/customer_overview.png)
